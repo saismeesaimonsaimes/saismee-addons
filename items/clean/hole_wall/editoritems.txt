@@ -1,0 +1,144 @@
+"Item"
+	{
+		"Type"		"ITEM_SAISMEE_HOLE_WALL"
+		"ItemClass"	"ItemLightStrip"
+		"Editor"
+		{
+			"SubTypeProperty" "CubeType"
+			"SubType"
+			{
+				"Name"		"Small Hole Wall"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Palette"
+				{
+					"Tooltip"	"SMALL HOLE WALL"
+					"Image"		"palette/small_hole_wall.png"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"SubType"
+			{
+				"Name"		"Large Hole Wall"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Palette"
+				{
+					"Tooltip"	"LARGE HOLE WALL"
+					"Image"		"palette/large_hole_wall.png"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"SubType"
+			{
+				"Name"		"Large Grate Hole Wall"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Palette"
+				{
+					"Tooltip"	"LARGE GRATE HOLE WALL"
+					"Image"		"palette/large_grate_hole_wall.png"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			// unused
+			"SubType"
+			{
+				"Name"		"Small Hole Wall"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			// unused
+			"SubType"
+			{
+				"Name"		"Small Hole Wall"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"MovementHandle"		"HANDLE_8_POSITIONS"
+		}
+		"Properties"
+		{
+			"CubeType"
+			{
+				"DefaultValue"	"0"
+				"Index"			"1"
+			}
+		}
+		"Exporting"
+		{
+			"Instances"
+			{
+				"0"
+				{
+					"Name"			"instances/BEE2/clean/small_hole_wall.vmf"
+					"EntityCount"	"0"
+				}
+				"1"
+				{
+					"Name"			"instances/BEE2/clean/large_hole_wall.vmf"
+					"EntityCount"	"0"
+				}
+				"2"
+				{
+					"Name"			"instances/BEE2/clean/large_grate_hole_wall.vmf"
+					"EntityCount"	"0"
+				}
+				"3"
+				{
+					"Name"			"instances/BEE2/clean/small_hole_wall.vmf"
+					"EntityCount"	"0"
+				}
+				"4"
+				{
+					"Name"			"instances/BEE2/clean/small_hole_wall.vmf"
+					"EntityCount"	"0"
+				}
+			}
+
+			"TargetName"		"hole_wall"
+			"Offset"		"64 64 64"
+		}
+	}

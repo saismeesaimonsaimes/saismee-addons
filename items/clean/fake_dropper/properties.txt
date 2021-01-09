@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			""
+	"Description"	"A dropper that doesn't drop anything. Useable for adding multiple items, or trash. Remember that it does *not* respawn items inside it."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"0"	"clean/fake_dropper.png"
+		}
+	}

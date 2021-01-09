@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			""
+	"Description"	"A cover, placed the same as a fake dropper that covers around vactubes."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"0"	"clean/fake_dropper.png"
+		}
+	}

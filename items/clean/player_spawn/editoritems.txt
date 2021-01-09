@@ -1,0 +1,46 @@
+"Item"
+	{
+		"Type"		"ITEM_SAISMEE_PLAYER_SPAWN"
+		"Editor"
+		{
+			"SubType"
+			{
+				"Name"		"Player Spawn"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Palette"
+				{
+					"Tooltip"	"PLAYER SPAWN"
+					"Image"		"palette/player_spawn.png"
+					"Position"	"1 6 0"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"MovementHandle"		"HANDLE_4_DIRECTIONS"
+			"InvalidSurface"		""
+			"CanAnchorOnBarriers"	"1"
+			"DesiredFacing"         "DESIRES_UP"
+		}
+		"Exporting"
+		{
+			"Instances"
+			{
+				"0"
+				{
+					"Name"			"instances/BEE2/clean/player_spawn.vmf"
+					"EntityCount"	"2"
+				}
+			}
+
+			"TargetName"		"player_spawn"
+			"Offset"		"64 64 64"
+		}
+	}

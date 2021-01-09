@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Test Elements; Panels"
+	"Description"	"A reflective panel angled at 45 degrees, which can be rotated to the opposite direction with connections."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"0"	"clean/turret.png"
+		}
+	}

@@ -1,0 +1,62 @@
+"ID" "SAISMEE_STYLES"
+"Name" "saismee's Addons (Styles)"
+"Prerequisites"
+	{
+	"Package" "BEE2_PORTAL_1"
+	}
+//"Style"
+//	{
+//	"ID" "SAISMEE_PORTAL_1_BTS"
+//	"Authors" "saismee"
+//	"Name" "Portal 1 Behind The Scenes"
+//	"ShortName" "P1 BTS"
+//	"Folder" "P1BTS"
+//	"Base" "BEE2_PORTAL_1"
+//	"Icon" "styles/P1BTS"
+//	"IconLarge" "prev/P1BTS.png"
+//	"Has_Video" "0"
+//	"Description"
+//		{
+//			"" "saismee style test"
+//		}
+//	"Suggested"
+//        {
+//        "Quote"        "BEE2_GLADOS_P1"
+//        "Music"        "<None>"
+//        "Skybox"    "BEE2_PORTAL_1"
+//        }
+//	"Corridors"
+//        {
+//        "icon_folder" "clean"
+//        "sp_entry"
+//			{
+//            "2"    "Right Turn"
+//            "3"    "Right S-Bend"
+//            "6"    "Stairs"
+//            "7"    "Left Turn"
+//            }
+//        "sp_exit"
+//            {
+//			}
+//        "coop"
+//            {
+//            "4" "Drop"
+//			}
+//        }
+//    }
+
+//"Overrides"
+//    {
+//	"Item"
+//		{
+//		"ID" "ITEM_ENTRY_DOOR"
+//		"NeedsUnlock"	"1"
+//		"Version"
+//			{
+//			"Styles"
+//				{
+//				"SAISMEE_PORTAL_1_BTS"	"entry_door_p1bts"
+//				}
+//			}
+//		}
+//    }

@@ -1,0 +1,11 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 2; Geometry; Lighting"
+	"Description"	"A modified, smaller observation room used as a light source. Takes only 1 Voxel"
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Observation_Room"
+	"Icon"
+		{
+			"0"	"clean/observation_room.png"
+		}
+	}

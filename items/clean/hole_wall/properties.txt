@@ -1,0 +1,17 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 1;Test Elements"
+	"Description"	"Wall with hole in it from Portal: Still Alive Advanced Chambers. Used for shooting portals through without use of a special fizzler."
+	"infoURL"		"https:/\/google.co.uk/"
+	"Ent_count"     "0"
+	"all_name"    "Hole Walls"
+	"all_icon"    "palette/all_hole_wall.png"
+	"Icon"
+		{
+			"all" "clean/all_hole_wall.png"
+			"0"   "clean/small_hole_wall.png"
+			"1"   "clean/large_hole_wall.png"
+			"2"   "clean/large_grate_hole_wall.png"
+		}
+	}

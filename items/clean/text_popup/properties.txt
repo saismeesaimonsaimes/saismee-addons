@@ -1,0 +1,16 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Logic"
+	"Ent_Count"		"3"
+	"Description"	"An item that can say different text with the timer. Change the specified text in the ItemVars."
+	"all_name"    "Text Popup"
+	"all_icon"    "palette/text_popup.png"
+	"Icon"
+		{
+			"all" "clean/text_popup.png"
+			"0"   "clean/text_popup.png"
+			"1"   "clean/text_popup.png"
+			"2"   "clean/text_popup.png"
+		}
+	}

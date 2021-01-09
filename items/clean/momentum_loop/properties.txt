@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 2;Test Elements;Custom"
+	"Description"	"Two thin walls with a fizzler in them to make a momentum loop for bots. Place a ceiling and floor"
+	"infoURL"		"https:/\/google.co.uk/"
+	"Ent_count"     "0"
+	"Icon"
+		{
+			"0"	"clean/momentum_loop.png"
+		}
+	}

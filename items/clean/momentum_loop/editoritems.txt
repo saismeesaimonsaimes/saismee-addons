@@ -1,0 +1,53 @@
+"Item"
+	{
+		"Type"		"ITEM_SAISMEE_MOMENTUM_LOOP"
+		"Editor"
+		{
+			"SubTypeProperty" "CubeType"
+			"SubType"
+			{
+				"Name"		"Momentum Loop"
+				"Model"
+				{
+					"ModelName"		"sentry.3ds"
+				}
+				"Palette"
+				{
+					"Tooltip"	"MOMENTUM LOOP"
+					"Image"		"palette/momentum_loop.png"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"MovementHandle"		"HANDLE_4_DIRECTIONS"
+		}
+		"Exporting"
+		{
+			"Instances"
+			{
+				"0"
+				{
+					"Name"			"instances/BEE2/clean/momentum_loop.vmf"
+					"EntityCount"	"0"
+				}
+			}
+			"EmbeddedVoxels"
+			{
+				"Voxel"
+				{
+					"Pos" "0 0 0"
+				}
+				"Voxel"
+				{
+					"Pos" "0 0 2"
+				}
+			}
+			"TargetName"		"momentum_loop"
+			"Offset"		"64 64 64"
+		}
+	}

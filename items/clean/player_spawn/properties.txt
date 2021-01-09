@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 2"
+	"Description"	"Override the entry door for custom entrances."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"0"	"clean/player_spawn.png"
+		}
+	}

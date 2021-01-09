@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 2;Test Elements;Hazards;Fields;Custom"
+	"Description"	"A 128x128 kill zone that can be enabled/disabled. Recommended to make a 3/5 timer (3 Seconds on, 5 Seconds off) for best gameplay."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"0"	"clean/electricity_field.png"
+		}
+	}
