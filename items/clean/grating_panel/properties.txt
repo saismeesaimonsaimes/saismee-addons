@@ -1,0 +1,15 @@
+"Properties"
+	{
+	"Authors"		"saismee"
+	"Tags"			"Portal 2"
+	"Description"	"A grated panel. Usually used for bridges or the end of flings. Opens in a staggered fashion. Can be used as a puzzle element as a deployable grating."
+	"infoURL"		"https:/\/developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Turret"
+	"Ent_count"     "2"
+	"Icon"
+		{
+			"all" "clean/text_popup.png"
+			"0"   "clean/text_popup.png"
+			"1"   "clean/text_popup.png"
+			"2"   "clean/text_popup.png"
+		}
+	}

@@ -33,19 +33,7 @@
 		}
 	}
 }
-"Item"
-{
-	"ID" "ITEM_SAISMEE_HOLE_WALL"
-	"Version"
-	{
-		"ID"    "VER_DEFAULT"
-		"Styles"
-		{
-			"BEE2_PORTAL_1" "p1/hole_wall"
-			"BEE2_CLEAN" "clean/hole_wall"
-		}
-	}
-}
+
 "Item"
 {
 	"ID" "ITEM_SAISMEE_ELECTRICITY_FIELD"
@@ -55,6 +43,30 @@
 		"Styles"
 		{
 			"ANY_STYLE" "clean/electricity_field"
+		}
+	}
+}
+"Item"
+{
+	"ID" "ITEM_SAISMEE_GRATING_PANEL"
+	"Version"
+	{
+		"ID"    "VER_DEFAULT"
+		"Styles"
+		{
+			"ANY_STYLE" "clean/grating_panel"
+		}
+	}
+}
+"Item"
+{
+	"ID" "ITEM_SAISMEE_GRATING_PANEL_LONG"
+	"Version"
+	{
+		"ID"    "VER_DEFAULT"
+		"Styles"
+		{
+			"ANY_STYLE" "clean/grating_panel_long"
 		}
 	}
 }
